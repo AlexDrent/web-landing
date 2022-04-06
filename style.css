@@ -1,0 +1,96 @@
+.highlighted {
+    font-weight: bold;
+    background-color: rgb(180, 179, 179);
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    margin-left: 0;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    display: block;
+    width: 200px;
+    color: black;
+    padding: 8px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: rgb(17, 77, 2);
+    color: rgb(227, 227, 40);
+}
+
+li a:visited {
+    color: black;
+}
+
+div {
+    margin-left: 500px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+nav ul div {
+    text-size-adjust: 200px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: rgb(85, 100, 85);
+    text-align: center;
+}
+
+body {
+    background-color: darkgreen;
+}
+
+subnav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    margin-left: 0;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+subnav ul li {
+    display: inline-block;
+}
+
+subnav ul li a {
+    display: block;
+    width: 200px;
+    color: black;
+    padding: 8px;
+    text-decoration: none;
+}
+
+subnav ul li a:hover {
+    background-color: rgb(17, 77, 2);
+    color: rgb(227, 227, 40);
+}
+
+li a:visited {
+    color: black;
+}
+
+div {
+    margin-left: 500px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+subnav ul div {
+    text-size-adjust: 200px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: rgb(85, 100, 85);
+    text-align: center;
+}
